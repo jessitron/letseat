@@ -22,7 +22,7 @@ The latest RubyTapas episode is:
               Fri, 02 Apr 2021
    Leaky Devcontainer Filesystem Abstractions
                 by Avdi Grimm
-Tools containers devcontainers docker files linux
+Tools·containers·devcontainers·docker·files·linux
 
 Mapping host files into a container is a source of a lot of "WTF" moments. Let's take a closer look at where some of these surprises come from.
 https://www.rubytapas.com/2021/04/02/devcontainer-unprivileged-user/
